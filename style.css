@@ -78,6 +78,7 @@ nav li a:hover {
   display: flex;
   width: 25%;
   justify-content: flex-end;
+  transition: 300ms ease-in-out
 }
 
 .Menu-sm img {
