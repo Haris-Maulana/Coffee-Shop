@@ -82,6 +82,7 @@ nav li a:hover {
 
 .Menu-sm img {
   width: 50px;
+  cursor: pointer;
 }
 
 .Menu-sm img:hover {
